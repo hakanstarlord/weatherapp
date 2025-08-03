@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌦 WeatherApp
 
 A simple and clean desktop weather application built with **Python** and **Tkinter**.  
@@ -57,3 +58,7 @@ It fetches real-time weather data using the [OpenWeatherMap API](https://openwea
 ## 📄 License
 
 This project is open source and free to use.
+=======
+# weatherapp
+A simple Python weather app using Tkinter and OpenWeatherMap API.
+>>>>>>> 8cd3549c9c01a96675c3b3014360bdda38bb7795
